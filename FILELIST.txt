@@ -1,125 +1,125 @@
-A.01.01 ->%A_Appendix\01_ProducerArtistContracts\01_BUBBI_NEPOTISM_CONTRACT_1.jpeg%
-A.01.02 ->%A_Appendix\01_ProducerArtistContracts\02_BUBBI_NEPOTISM_CONTRACT_2.jpeg%
-A.02.01 ->%A_Appendix\02_StreamingStats\01_SPOTIFY_DISTROKID.html%
-A.02.02 ->%A_Appendix\02_StreamingStats\02_APPLE_DISTROKID.html%
-A.02.03 ->%A_Appendix\02_StreamingStats\03_DEEZER.html%
-A.02.04 ->%A_Appendix\02_StreamingStats\04_AMAZON.html%
-A.02.05 ->%A_Appendix\02_StreamingStats\05_SPOTIFY_ARTISTS.html%
-A.02.06 ->%A_Appendix\02_StreamingStats\06_APPLE_ARTISTS.html%
-A.03.01 ->%A_Appendix\03_SongwritingContracts\01_HEWITT_FORRESTER_AGREEMENT.pdf%
-A.04.01 ->%A_Appendix\04_ProductionContracts\01_CONTRACT_ADAM.pdf%
-A.04.02 ->%A_Appendix\04_ProductionContracts\02_CONTRACT_BEN.pdf%
-A.04.03 ->%A_Appendix\04_ProductionContracts\03_CONTRACT_HUGO.pdf%
-A.04.04 ->%A_Appendix\04_ProductionContracts\04_CONTRACT_NICK.pdf%
-A.04.05 ->%A_Appendix\04_ProductionContracts\05_CONTRACT_ROD.pdf%
-A.04.06 ->%A_Appendix\04_ProductionContracts\06_CONTRACT_RUSSELL.pdf%
-A.04.07 ->%A_Appendix\04_ProductionContracts\07_PERFORMER_ALFIE.pdf%
-A.04.08 ->%A_Appendix\04_ProductionContracts\08_PERFORMER_BADRI.pdf%
-A.04.09 ->%A_Appendix\04_ProductionContracts\09_PERFORMER_CAN.pdf%
-A.04.10 ->%A_Appendix\04_ProductionContracts\10_PERFORMER_CLAUDETTE.pdf%
-A.04.11 ->%A_Appendix\04_ProductionContracts\11_PERFORMER_DAN.pdf%
-A.04.12 ->%A_Appendix\04_ProductionContracts\12_PERFORMER_FERG.pdf%
-A.04.13 ->%A_Appendix\04_ProductionContracts\13_PERFORMER_LEON.pdf%
-A.04.14 ->%A_Appendix\04_ProductionContracts\14_PR.INCOME_CLAUDETTE.pdf%
-A.04.15 ->%A_Appendix\04_ProductionContracts\15_PR.INCOME_ROSIE.pdf%
-A.04.16 ->%A_Appendix\04_ProductionContracts\16_PRODCONTRACT_BEAUTY.pdf%
-A.04.17 ->%A_Appendix\04_ProductionContracts\17_PRODCONTRACT_CARRIE.pdf%
-A.04.18 ->%A_Appendix\04_ProductionContracts\18_PR.INCOME_DAN.pdf%
-A.04.19 ->%A_Appendix\04_ProductionContracts\19_CAPCROC_BUTHOW_PRODUCER_ARTIST_AGREEMENT.pdf%
-A.04.20 ->%A_Appendix\04_ProductionContracts\20_MRCULPEPP_FOSSILIZED_PRODUCER_ARTIST_AGREEMENT.pdf%
-A.04.21 ->%A_Appendix\04_ProductionContracts\21_HARRIETTE_ROSALINE_PRODUCER_ARTIST_AGREEMENT.pdf%
-B.01.01 ->%B_Appendix\01_Press\01_PRESS_RELEASE.pdf%
-B.01.02 ->%B_Appendix\01_Press\02_ELECTRONIC_PRESS_KIT.pdf%
-B.01.03 ->%B_Appendix\01_Press\03_TIGON_MEDIA_INTERVIEW.html%
-B.01.04 ->%B_Appendix\01_Press\04_LOCALANDLIVE_PODCAST_INTERVIEW.html%
-B.01.05 ->%B_Appendix\01_Press\05_LOCALANDLIVE_VIDEO.html%
-B.02.01 ->%B_Appendix\02_Reviews\01_KAZ_HEADLINE_REVIEW.html%
-B.02.02 ->%B_Appendix\02_Reviews\02_PYROPIXIE_NEPOTISM_REVIEW.webp%
-B.03.01 ->%B_Appendix\03_InstagramMetrics\01_METRICS_SCREENSHOT_ENGAGEMENT.png%
-B.03.02 ->%B_Appendix\03_InstagramMetrics\02_METRICS_SCREENSHOT_FOLLOWERS.png%
-B.03.03 ->%B_Appendix\03_InstagramMetrics\03_METRICS_SCREENSHOT_SPONSORED_VIDEO.png%
-B.03.04 ->%B_Appendix\03_InstagramMetrics\04_REELS.html%
-B.03.05 ->%B_Appendix\03_InstagramMetrics\05_METRICS_MOST_POPULAR_POST.png%
-B.03.06 ->%B_Appendix\03_InstagramMetrics\06_METRICS_MOST_POPULAR_REEL.png%
-B.04.01 ->%B_Appendix\04_Radio\01_JABJAZZ_FRIDGELIGHTBULB.mp4%
-B.04.02 ->%B_Appendix\04_Radio\02_MIGGS_MELODICDISTRACTION.mp4%
-B.04.03 ->%B_Appendix\04_Radio\03_HERMITAGEFM_SEXYANDIKNOWIT.mp4%
-B.05.01 ->%B_Appendix\05_SocialLinks\01_INSTAGRAM.html%
-B.05.02 ->%B_Appendix\05_SocialLinks\02_TIKTOK.html%
-B.05.03 ->%B_Appendix\05_SocialLinks\03_LINKTREE.html%
-B.05.04 ->%B_Appendix\05_SocialLinks\04_FACEBOOK.html%
-B.05.05 ->%B_Appendix\05_SocialLinks\05_SOUNDCLOUD.html%
-B.05.06 ->%B_Appendix\05_SocialLinks\06_AboutTheseLinks.txt%
-B.06.01 ->%B_Appendix\06_TikTokMetrics\01_POPULAR_TIKTOK_1.jpeg%
-B.06.02 ->%B_Appendix\06_TikTokMetrics\02_MOST_LIKED_TIKTOK_2.jpeg%
-B.06.03 ->%B_Appendix\06_TikTokMetrics\03_POPULAR_TIKTOK_2.jpeg%
-B.06.04 ->%B_Appendix\06_TikTokMetrics\04_WEEKLY_TRENDS.jpeg%
-B.06.05 ->%B_Appendix\06_TikTokMetrics\05_FOLLOWER_METRICS.jpeg%
-B.06.06 ->%B_Appendix\06_TikTokMetrics\06_FOLLOWER_METRICS_2.jpeg%
-B.06.07 ->%B_Appendix\06_TikTokMetrics\07_FOLLOWER_METRICS_3.jpeg%
-B.06.08 ->%B_Appendix\06_TikTokMetrics\08_OVERALL_METRICS.jpeg%
-B.06.09 ->%B_Appendix\06_TikTokMetrics\09_FRONT_PAGE.jpeg%
-C.01.01 ->%C_Appendix\01_Contacts\01_CONTACTSHEET.pdf%
-D.01.01 ->%D_Appendix\01_FundingApplication\01_FundingApplication.pdf%
-D.02.01 ->%D_Appendix\02_Invoices\01_PHOTOGRAPHY_INVOICE.pdf%
-D.02.02 ->%D_Appendix\02_Invoices\02_GIG_FUTUREYARD_INVOICE.docx%
-D.02.03 ->%D_Appendix\02_Invoices\03_BIGDIFFERENCE_INVOICE.pdf%
-D.02.04 ->%D_Appendix\02_Invoices\04_FOODAID_INVOICE.pdf%
-D.02.05 ->%D_Appendix\02_Invoices\05_KAZIMIER_INVOICE.pdf%
-D.02.06 ->%D_Appendix\02_Invoices\06_METROCOLA_INVOICE.pdf%
-D.02.07 ->%D_Appendix\02_Invoices\07_MONKELAMP_INVOICE.pdf%
-D.02.08 ->%D_Appendix\02_Invoices\08_QUARRY_INVOICE.pdf%
-D.02.09 ->%D_Appendix\02_Invoices\09_MAYA_SHIRT_INVOICE.xlsx%
-D.03.01 ->%D_Appendix\03_Other\01_FINANCES_INOUT.txt%
-D.03.02 ->%D_Appendix\03_Other\02_SHIRT_PLANNING.pdf%
-E.01.01 ->%E_Progress\01_MeetingNotes\01_MeetingNotes.docx%
-E.01.02 ->%E_Progress\01_MeetingNotes\02_MeetingNotes.docx%
-E.01.03 ->%E_Progress\01_MeetingNotes\03_MeetingNotes.docx%
-E.01.04 ->%E_Progress\01_MeetingNotes\04_MeetingNotes.docx%
-E.01.05 ->%E_Progress\01_MeetingNotes\05_MeetingNotes.docx%
-E.01.06 ->%E_Progress\01_MeetingNotes\06_MeetingNotes.docx%
-E.01.07 ->%E_Progress\01_MeetingNotes\07_MeetingNotes.docx%
-E.01.08 ->%E_Progress\01_MeetingNotes\08_MeetingNotes.docx%
-E.01.09 ->%E_Progress\01_MeetingNotes\09_MeetingNotes.docx%
-E.01.10 ->%E_Progress\01_MeetingNotes\10_MeetingNotes.docx%
-E.01.11 ->%E_Progress\01_MeetingNotes\11_MeetingNotes.docx%
-E.01.12 ->%E_Progress\01_MeetingNotes\12_MeetingNotes.docx%
-E.01.13 ->%E_Progress\01_MeetingNotes\13_TrelloEvidence.html%
-E.01.14 ->%E_Progress\01_MeetingNotes\14_NepotismMarketingPlan.pptx%
-E.02.01 ->%E_Progress\02_MPP\01_PROJECTPLAN.docx%
-F.01.01 ->%F_Photos\01_GigPhotos\01_PHOTO_LIST.html%
-F.02.01 ->%F_Photos\02_Promo\01_2UBE_XTRA_LIPASCREENS.png%
-F.02.02 ->%F_Photos\02_Promo\02_LOGO_REDESIGN.png%
-F.02.03 ->%F_Photos\02_Promo\03_LOGO_ORIGINAL.png%
-F.02.04 ->%F_Photos\02_Promo\04_STICKER_SHEET.png%
-F.02.05 ->%F_Photos\02_Promo\05_HEADLINE_POSTER.pdf%
-F.02.06 ->%F_Photos\02_Promo\06_SHIRT_DESIGN.png%
-F.02.07 ->%F_Photos\02_Promo\07_SHIRT_DESIGN_BACK.png%
-F.03.01 ->%F_Photos\03_AlbumArt\01_AlbumArtLayer.PNG%
-F.03.02 ->%F_Photos\03_AlbumArt\02_AlbumArtLayer.png%
-F.03.03 ->%F_Photos\03_AlbumArt\03_AlbumArtLayer.png%
-F.03.04 ->%F_Photos\03_AlbumArt\04_AlbumArtLayer.png%
-F.03.05 ->%F_Photos\03_AlbumArt\05_AlbumArtLayer.png%
-F.03.06 ->%F_Photos\03_AlbumArt\06_AlbumArtLayer.png%
-F.03.07 ->%F_Photos\03_AlbumArt\07_AlbumArtLayer.png%
-F.03.08 ->%F_Photos\03_AlbumArt\08_AlbumArtLayer.png%
-F.03.09 ->%F_Photos\03_AlbumArt\09_AlbumArtLayer.png%
-F.03.10 ->%F_Photos\03_AlbumArt\10_AlbumArtLayer.png%
-F.03.11 ->%F_Photos\03_AlbumArt\11_AlbumArtLayer.png%
-F.03.12 ->%F_Photos\03_AlbumArt\12_AlbumArtLayer.png%
-F.03.13 ->%F_Photos\03_AlbumArt\13_AlbumArtLayer.png%
-G.01.01 ->%G_Audio\01_BonkAudio\01_INTRO_L.aif%
-G.01.02 ->%G_Audio\01_BonkAudio\02_INTRO_R.aif%
-G.01.03 ->%G_Audio\01_BonkAudio\03_FridgeLightbulb @ Kaz.mp3%
-G.01.04 ->%G_Audio\01_BonkAudio\04_Preserve @ Kaz.mp3%
-G.01.05 ->%G_Audio\01_BonkAudio\05_Yamfuggle @ Kaz.mp3%
-G.01.06 ->%G_Audio\01_BonkAudio\06_Wave @ Kaz.mp3%
-G.01.07 ->%G_Audio\01_BonkAudio\07_BikeRide @ Kaz.mp3%
-G.01.08 ->%G_Audio\01_BonkAudio\08_Bonkspace @ Kaz.mp3%
-G.01.09 ->%G_Audio\01_BonkAudio\09_Armbands @ Kaz.mp3%
-G.01.10 ->%G_Audio\01_BonkAudio\10_Sexy and I Know it @ Kaz.mp3%
-G.01.11 ->%G_Audio\01_BonkAudio\11_Safety in Numbers @ Kaz.mp3%
-G.01.12 ->%G_Audio\01_BonkAudio\12_Nepotism @ Kaz.mp3%
-G.01.13 ->%G_Audio\01_BonkAudio\13_B7PM @ Kaz.mp3%
-G.01.14 ->%G_Audio\01_BonkAudio\14_SEXYANDIKNOWIT.wav%
-G.01.15 ->%G_Audio\01_BonkAudio\15_NEPOTISM.wav%
+A.01.01 -> A_Appendix\01_ProducerArtistContracts\01_BUBBI_NEPOTISM_CONTRACT_1.jpeg
+A.01.02 -> A_Appendix\01_ProducerArtistContracts\02_BUBBI_NEPOTISM_CONTRACT_2.jpeg
+A.02.01 -> A_Appendix\02_StreamingStats\01_SPOTIFY_DISTROKID.html
+A.02.02 -> A_Appendix\02_StreamingStats\02_APPLE_DISTROKID.html
+A.02.03 -> A_Appendix\02_StreamingStats\03_DEEZER.html
+A.02.04 -> A_Appendix\02_StreamingStats\04_AMAZON.html
+A.02.05 -> A_Appendix\02_StreamingStats\05_SPOTIFY_ARTISTS.html
+A.02.06 -> A_Appendix\02_StreamingStats\06_APPLE_ARTISTS.html
+A.03.01 -> A_Appendix\03_SongwritingContracts\01_HEWITT_FORRESTER_AGREEMENT.pdf
+A.04.01 -> A_Appendix\04_ProductionContracts\01_CONTRACT_ADAM.pdf
+A.04.02 -> A_Appendix\04_ProductionContracts\02_CONTRACT_BEN.pdf
+A.04.03 -> A_Appendix\04_ProductionContracts\03_CONTRACT_HUGO.pdf
+A.04.04 -> A_Appendix\04_ProductionContracts\04_CONTRACT_NICK.pdf
+A.04.05 -> A_Appendix\04_ProductionContracts\05_CONTRACT_ROD.pdf
+A.04.06 -> A_Appendix\04_ProductionContracts\06_CONTRACT_RUSSELL.pdf
+A.04.07 -> A_Appendix\04_ProductionContracts\07_PERFORMER_ALFIE.pdf
+A.04.08 -> A_Appendix\04_ProductionContracts\08_PERFORMER_BADRI.pdf
+A.04.09 -> A_Appendix\04_ProductionContracts\09_PERFORMER_CAN.pdf
+A.04.10 -> A_Appendix\04_ProductionContracts\10_PERFORMER_CLAUDETTE.pdf
+A.04.11 -> A_Appendix\04_ProductionContracts\11_PERFORMER_DAN.pdf
+A.04.12 -> A_Appendix\04_ProductionContracts\12_PERFORMER_FERG.pdf
+A.04.13 -> A_Appendix\04_ProductionContracts\13_PERFORMER_LEON.pdf
+A.04.14 -> A_Appendix\04_ProductionContracts\14_PR.INCOME_CLAUDETTE.pdf
+A.04.15 -> A_Appendix\04_ProductionContracts\15_PR.INCOME_ROSIE.pdf
+A.04.16 -> A_Appendix\04_ProductionContracts\16_PRODCONTRACT_BEAUTY.pdf
+A.04.17 -> A_Appendix\04_ProductionContracts\17_PRODCONTRACT_CARRIE.pdf
+A.04.18 -> A_Appendix\04_ProductionContracts\18_PR.INCOME_DAN.pdf
+A.04.19 -> A_Appendix\04_ProductionContracts\19_CAPCROC_BUTHOW_PRODUCER_ARTIST_AGREEMENT.pdf
+A.04.20 -> A_Appendix\04_ProductionContracts\20_MRCULPEPP_FOSSILIZED_PRODUCER_ARTIST_AGREEMENT.pdf
+A.04.21 -> A_Appendix\04_ProductionContracts\21_HARRIETTE_ROSALINE_PRODUCER_ARTIST_AGREEMENT.pdf
+B.01.01 -> B_Appendix\01_Press\01_PRESS_RELEASE.pdf
+B.01.02 -> B_Appendix\01_Press\02_ELECTRONIC_PRESS_KIT.pdf
+B.01.03 -> B_Appendix\01_Press\03_TIGON_MEDIA_INTERVIEW.html
+B.01.04 -> B_Appendix\01_Press\04_LOCALANDLIVE_PODCAST_INTERVIEW.html
+B.01.05 -> B_Appendix\01_Press\05_LOCALANDLIVE_VIDEO.html
+B.02.01 -> B_Appendix\02_Reviews\01_KAZ_HEADLINE_REVIEW.html
+B.02.02 -> B_Appendix\02_Reviews\02_PYROPIXIE_NEPOTISM_REVIEW.webp
+B.03.01 -> B_Appendix\03_InstagramMetrics\01_METRICS_SCREENSHOT_ENGAGEMENT.png
+B.03.02 -> B_Appendix\03_InstagramMetrics\02_METRICS_SCREENSHOT_FOLLOWERS.png
+B.03.03 -> B_Appendix\03_InstagramMetrics\03_METRICS_SCREENSHOT_SPONSORED_VIDEO.png
+B.03.04 -> B_Appendix\03_InstagramMetrics\04_REELS.html
+B.03.05 -> B_Appendix\03_InstagramMetrics\05_METRICS_MOST_POPULAR_POST.png
+B.03.06 -> B_Appendix\03_InstagramMetrics\06_METRICS_MOST_POPULAR_REEL.png
+B.04.01 -> B_Appendix\04_Radio\01_JABJAZZ_FRIDGELIGHTBULB.mp4
+B.04.02 -> B_Appendix\04_Radio\02_MIGGS_MELODICDISTRACTION.mp4
+B.04.03 -> B_Appendix\04_Radio\03_HERMITAGEFM_SEXYANDIKNOWIT.mp4
+B.05.01 -> B_Appendix\05_SocialLinks\01_INSTAGRAM.html
+B.05.02 -> B_Appendix\05_SocialLinks\02_TIKTOK.html
+B.05.03 -> B_Appendix\05_SocialLinks\03_LINKTREE.html
+B.05.04 -> B_Appendix\05_SocialLinks\04_FACEBOOK.html
+B.05.05 -> B_Appendix\05_SocialLinks\05_SOUNDCLOUD.html
+B.05.06 -> B_Appendix\05_SocialLinks\06_AboutTheseLinks.txt
+B.06.01 -> B_Appendix\06_TikTokMetrics\01_POPULAR_TIKTOK_1.jpeg
+B.06.02 -> B_Appendix\06_TikTokMetrics\02_MOST_LIKED_TIKTOK_2.jpeg
+B.06.03 -> B_Appendix\06_TikTokMetrics\03_POPULAR_TIKTOK_2.jpeg
+B.06.04 -> B_Appendix\06_TikTokMetrics\04_WEEKLY_TRENDS.jpeg
+B.06.05 -> B_Appendix\06_TikTokMetrics\05_FOLLOWER_METRICS.jpeg
+B.06.06 -> B_Appendix\06_TikTokMetrics\06_FOLLOWER_METRICS_2.jpeg
+B.06.07 -> B_Appendix\06_TikTokMetrics\07_FOLLOWER_METRICS_3.jpeg
+B.06.08 -> B_Appendix\06_TikTokMetrics\08_OVERALL_METRICS.jpeg
+B.06.09 -> B_Appendix\06_TikTokMetrics\09_FRONT_PAGE.jpeg
+C.01.01 -> C_Appendix\01_Contacts\01_CONTACTSHEET.pdf
+D.01.01 -> D_Appendix\01_FundingApplication\01_FundingApplication.pdf
+D.02.01 -> D_Appendix\02_Invoices\01_PHOTOGRAPHY_INVOICE.pdf
+D.02.02 -> D_Appendix\02_Invoices\02_GIG_FUTUREYARD_INVOICE.docx
+D.02.03 -> D_Appendix\02_Invoices\03_BIGDIFFERENCE_INVOICE.pdf
+D.02.04 -> D_Appendix\02_Invoices\04_FOODAID_INVOICE.pdf
+D.02.05 -> D_Appendix\02_Invoices\05_KAZIMIER_INVOICE.pdf
+D.02.06 -> D_Appendix\02_Invoices\06_METROCOLA_INVOICE.pdf
+D.02.07 -> D_Appendix\02_Invoices\07_MONKELAMP_INVOICE.pdf
+D.02.08 -> D_Appendix\02_Invoices\08_QUARRY_INVOICE.pdf
+D.02.09 -> D_Appendix\02_Invoices\09_MAYA_SHIRT_INVOICE.xlsx
+D.03.01 -> D_Appendix\03_Other\01_FINANCES_INOUT.txt
+D.03.02 -> D_Appendix\03_Other\02_SHIRT_PLANNING.pdf
+E.01.01 -> E_Progress\01_MeetingNotes\01_MeetingNotes.docx
+E.01.02 -> E_Progress\01_MeetingNotes\02_MeetingNotes.docx
+E.01.03 -> E_Progress\01_MeetingNotes\03_MeetingNotes.docx
+E.01.04 -> E_Progress\01_MeetingNotes\04_MeetingNotes.docx
+E.01.05 -> E_Progress\01_MeetingNotes\05_MeetingNotes.docx
+E.01.06 -> E_Progress\01_MeetingNotes\06_MeetingNotes.docx
+E.01.07 -> E_Progress\01_MeetingNotes\07_MeetingNotes.docx
+E.01.08 -> E_Progress\01_MeetingNotes\08_MeetingNotes.docx
+E.01.09 -> E_Progress\01_MeetingNotes\09_MeetingNotes.docx
+E.01.10 -> E_Progress\01_MeetingNotes\10_MeetingNotes.docx
+E.01.11 -> E_Progress\01_MeetingNotes\11_MeetingNotes.docx
+E.01.12 -> E_Progress\01_MeetingNotes\12_MeetingNotes.docx
+E.01.13 -> E_Progress\01_MeetingNotes\13_TrelloEvidence.html
+E.01.14 -> E_Progress\01_MeetingNotes\14_NepotismMarketingPlan.pptx
+E.02.01 -> E_Progress\02_MPP\01_PROJECTPLAN.docx
+F.01.01 -> F_Photos\01_GigPhotos\01_PHOTO_LIST.html
+F.02.01 -> F_Photos\02_Promo\01_2UBE_XTRA_LIPASCREENS.png
+F.02.02 -> F_Photos\02_Promo\02_LOGO_REDESIGN.png
+F.02.03 -> F_Photos\02_Promo\03_LOGO_ORIGINAL.png
+F.02.04 -> F_Photos\02_Promo\04_STICKER_SHEET.png
+F.02.05 -> F_Photos\02_Promo\05_HEADLINE_POSTER.pdf
+F.02.06 -> F_Photos\02_Promo\06_SHIRT_DESIGN.png
+F.02.07 -> F_Photos\02_Promo\07_SHIRT_DESIGN_BACK.png
+F.03.01 -> F_Photos\03_AlbumArt\01_AlbumArtLayer.PNG
+F.03.02 -> F_Photos\03_AlbumArt\02_AlbumArtLayer.png
+F.03.03 -> F_Photos\03_AlbumArt\03_AlbumArtLayer.png
+F.03.04 -> F_Photos\03_AlbumArt\04_AlbumArtLayer.png
+F.03.05 -> F_Photos\03_AlbumArt\05_AlbumArtLayer.png
+F.03.06 -> F_Photos\03_AlbumArt\06_AlbumArtLayer.png
+F.03.07 -> F_Photos\03_AlbumArt\07_AlbumArtLayer.png
+F.03.08 -> F_Photos\03_AlbumArt\08_AlbumArtLayer.png
+F.03.09 -> F_Photos\03_AlbumArt\09_AlbumArtLayer.png
+F.03.10 -> F_Photos\03_AlbumArt\10_AlbumArtLayer.png
+F.03.11 -> F_Photos\03_AlbumArt\11_AlbumArtLayer.png
+F.03.12 -> F_Photos\03_AlbumArt\12_AlbumArtLayer.png
+F.03.13 -> F_Photos\03_AlbumArt\13_AlbumArtLayer.png
+G.01.01 -> G_Audio\01_BonkAudio\01_INTRO_L.aif
+G.01.02 -> G_Audio\01_BonkAudio\02_INTRO_R.aif
+G.01.03 -> G_Audio\01_BonkAudio\03_FridgeLightbulb @ Kaz.mp3
+G.01.04 -> G_Audio\01_BonkAudio\04_Preserve @ Kaz.mp3
+G.01.05 -> G_Audio\01_BonkAudio\05_Yamfuggle @ Kaz.mp3
+G.01.06 -> G_Audio\01_BonkAudio\06_Wave @ Kaz.mp3
+G.01.07 -> G_Audio\01_BonkAudio\07_BikeRide @ Kaz.mp3
+G.01.08 -> G_Audio\01_BonkAudio\08_Bonkspace @ Kaz.mp3
+G.01.09 -> G_Audio\01_BonkAudio\09_Armbands @ Kaz.mp3
+G.01.10 -> G_Audio\01_BonkAudio\10_Sexy and I Know it @ Kaz.mp3
+G.01.11 -> G_Audio\01_BonkAudio\11_Safety in Numbers @ Kaz.mp3
+G.01.12 -> G_Audio\01_BonkAudio\12_Nepotism @ Kaz.mp3
+G.01.13 -> G_Audio\01_BonkAudio\13_B7PM @ Kaz.mp3
+G.01.14 -> G_Audio\01_BonkAudio\14_SEXYANDIKNOWIT.wav
+G.01.15 -> G_Audio\01_BonkAudio\15_NEPOTISM.wav
