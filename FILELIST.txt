@@ -72,6 +72,7 @@ D.02.08 > D_Appendix\02_Invoices\08_QUARRY_INVOICE.pdf
 D.02.09 > D_Appendix\02_Invoices\09_MAYA_SHIRT_INVOICE.xlsx
 D.03.01 > D_Appendix\03_Other\01_FINANCES_INOUT.txt
 D.03.02 > D_Appendix\03_Other\02_SHIRT_PLANNING.pdf
+D.03.03 > D_Appendix\03_Other\03_EXPENSE_REPORT.pdf
 E.01.01 > E_Progress\01_MeetingNotes\01_MeetingNotes.docx
 E.01.02 > E_Progress\01_MeetingNotes\02_MeetingNotes.docx
 E.01.03 > E_Progress\01_MeetingNotes\03_MeetingNotes.docx
